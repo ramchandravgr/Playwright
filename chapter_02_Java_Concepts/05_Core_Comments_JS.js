@@ -1,8 +1,13 @@
-console.log("Hello World");
-/**
- * This is a multi line comment
- * author: Ramchandra
- * version: 1.0
- * date: 2026-02-14
- * purpose: To learn comments
+// This is comment. -This code will not be execute
+console.log("Hello");
+/** 
+ *  This is multi line
+ *  Author : Prrmmod Dutta
+ *  Date : 14-Feb-2026
+ **/
+
+/* 
+ *  This is multi line
+ *  Author : Prrmmod Dutta
+ *  Date : 14-Feb-2026
  */
